@@ -1,0 +1,22 @@
+/* Everything in here is a COMMENT CODE */
+
+body
+{
+    /*background-color: antiquewhite;*/
+    background-image: url("img/download.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4
+{
+    color: darkblue;
+}
+
+
+/* Style a specific section of the page that has an ID= using the hashtag # */
+#textEnhance
+{
+    color: darkmagenta;
+    background-image: linear-gradient(white,pink, #8b466e);
+}
